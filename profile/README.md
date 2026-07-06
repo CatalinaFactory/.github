@@ -7,7 +7,7 @@ Independent game studio. Original titles and co-development.
 ![Independent studio](https://img.shields.io/badge/Independent-studio-e6c069?style=flat-square&labelColor=101b2c)
 ![Founded 2026](https://img.shields.io/badge/Founded-2026-e6c069?style=flat-square&labelColor=101b2c)
 ![Based in Latvia](https://img.shields.io/badge/Based%20in-Latvia-e6c069?style=flat-square&labelColor=101b2c)
-[![Website](https://img.shields.io/badge/catalinafactory.com-e6c069?style=flat-square&labelColor=bd8c2e)](https://catalinafactory.com)
+[![Website](https://img.shields.io/badge/Website-catalinafactory.com-e6c069?style=flat-square&labelColor=101b2c)](https://catalinafactory.com)
 
 </div>
 
